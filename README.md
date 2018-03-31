@@ -3,6 +3,10 @@
 
 An example of compiling [Sass](https://sass-lang.com/) with [Rake](https://github.com/ruby/rake).
 
+## Article
+
+https://medium.com/@gluons/sass-rake-8f93bfcec250
+
 ## Get started
 
 ### Install gems
